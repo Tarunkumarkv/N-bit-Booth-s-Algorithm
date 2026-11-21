@@ -2,9 +2,7 @@
 
 **Scalable Signed Two's-Complement Radix-2 Booth Multiplier in Verilog-2001 HDL**
 
-[![Interactive Datapath Stepper](https://img.shields.io/badge/Interactive_Datapath_Stepper-Step_Through_Radix--2_Booth_Registers-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8)](https://tarunkumarkv.github.io/#datapath)
-[![Language](https://img.shields.io/badge/HDL-Verilog--2001-1E293B?style=flat-square)]()
-[![Verification](https://img.shields.io/badge/Verification-Self--Checking_Testbench_(iverilog_%2B_GTKWave)-059669?style=flat-square)]()
+**Standard:** `Verilog-2001 HDL` &nbsp;·&nbsp; **Verification:** `Self-Checking Signed Testbench (iverilog + GTKWave)` &nbsp;·&nbsp; [**Interactive Radix-2 Booth Datapath Stepper ↗**](https://tarunkumarkv.github.io/#datapath)
 
 ---
 
