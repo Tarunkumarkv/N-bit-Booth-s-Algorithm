@@ -1,0 +1,12 @@
+# Simulation outputs
+booth_sim
+*.vvp
+*.vcd
+*.lxt
+*.lxt2
+*.sav
+*.o
+
+# OS / Editor
+.DS_Store
+*~
